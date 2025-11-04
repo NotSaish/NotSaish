@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👾 NotSaish | Just another code wizard 😎  
 
-<!--
-**NotSaish/NotSaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning caffeine ☕ into ✨ bugs ✨ since forever 💀  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- 🐍 Python | ⚛️ JS | 🖥️ HTML / CSS | C++
+- 🧠 Termux + Ubuntu
+- 🔥 Always experimenting, never sleeping  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌈 Current Vibe
+“code. crash. fix. repeat.”
+
+### 📫 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-NotSaish-black?style=flat&logo=github)](https://github.com/NotSaish)
+[![Instagram](https://img.shields.io/badge/IG-%40notsaish__dev-pink?style=flat&logo=instagram)](https://instagram.com/)
