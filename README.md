@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🔥%20NotSaish%20Zone%20💀&fontSize=50)
 # 👾 NotSaish | Just another code wizard 😎  
 
 > Turning caffeine ☕ into ✨ bugs ✨ since forever 💀  
