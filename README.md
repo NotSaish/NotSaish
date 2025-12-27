@@ -1,6 +1,6 @@
 # 👋 Yo, I'm Saish
 
-Building things, breaking things, learning faster than my bugs 🐛⚡  
+Building things, breaking things, learning faster than my bugs   
 Currently exploring **AI/ML, Python tooling, and Kernel-level ideas**.
 
 <p align="center">
@@ -16,25 +16,26 @@ Currently exploring **AI/ML, Python tooling, and Kernel-level ideas**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Languages:** Python , bash scripting, javascript
 - **ML/Data:** NumPy, Pandas, PyTorch (learning), scikit-learn, tensorflow 
 - **Backend:** FastAPI  
 - **Tools:** Git, Linux, GitHub Actions  
-- **Mindset:** Ship > perfect 🚀
+- **Mindset:** Ship > perfect 
 - **Web development:** website + machine learning
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 - ML fundamentals (math + intuition)
+- backend devlopment
 - Model training & evaluation
 - Serving models with APIs
 - Optimization & performance basics
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build practical ML projects
 - Contribute more to open source
 - Turn experiments into usable tools
@@ -50,4 +51,4 @@ Currently exploring **AI/ML, Python tooling, and Kernel-level ideas**.
 
 > *“Still learning. Still shipping.”* 🧑‍💻🔥
 
--  _“Code. Create. Conquer.”_ 🚀
+-  _“Code. Create. Conquer.”_ 
