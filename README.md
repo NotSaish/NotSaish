@@ -4,7 +4,7 @@ Building things, breaking things, learning faster than my bugs 🐛⚡
 Currently exploring **AI/ML, Python tooling, and Kernel-level ideas**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Saish+%F0%9F%91%8B;AI%2FML+Learner+%F0%9F%A4%96;Python+javascript+%26+CLI+Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Learning+by+doing+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Saish+%F0%9F%91%8B;AI%2FML+Learner+%F0%9F%A4%96;JavaScript+%26+Python+Dev+%F0%9F%9A%80;CLI+Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Visionary+Builder+with+Code+%F0%9F%94%AE;Learning+by+Building+%F0%9F%94%A5" />
 </p>
 
 ---
